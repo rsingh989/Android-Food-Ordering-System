@@ -1,0 +1,7 @@
+#Tue May 02 11:06:46 IST 2017
+base.0=/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e15b7e3fd101c46b568174250501890f0825c2d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23bfd00806a51a59771fb8ddfcc23e72d625fe9c/classes.dex
+base.1=/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23bfd00806a51a59771fb8ddfcc23e72d625fe9c
+file.0=/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e15b7e3fd101c46b568174250501890f0825c2d/classes.dex

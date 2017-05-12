@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/dessert_l.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/dessert_l.png"
+    },
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/non_veg.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/non_veg.png"
+    },
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/soup_l.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/soup_l.png"
+    },
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/vegvectrr.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/vegvectrr.png"
+    },
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/menu.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/menu.png"
+    },
+    {
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi/vegs.png",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/vegs.png"
+    }
+]
