@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vegvectrr.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\vegvectrr.png"
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dessert_blur.jpg",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/dessert_blur.jpg"
     },
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\veg_vvvthali.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\veg_vvvthali.jpg"
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/str_blur.jpg",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/str_blur.jpg"
     },
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\applogo.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\applogo.jpg"
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash.jpg",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/splash.jpg"
     },
     {
         "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/n_veg.jpg",
@@ -18,74 +18,6 @@
     {
         "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/thanku2.jpg",
         "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/thanku2.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dessert.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\dessert.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\register_table.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\register_table.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\str.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\str.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\splash.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/veg_vvvthali.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/veg_vvvthali.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menubg.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\menubg.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/applogo.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/applogo.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dessert_l.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\dessert_l.png"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/str.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/str.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vegs.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\vegs.png"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dessert_blur.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/dessert_blur.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soup_l.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\soup_l.png"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/str_blur.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/str_blur.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\str_blur.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\str_blur.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/splash.jpg"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\menu.png"
     },
     {
         "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menubg.jpg",
@@ -100,19 +32,15 @@
         "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/register_table.jpg"
     },
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thanku2.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\thanku2.jpg"
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/veg_vvvthali.jpg",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/veg_vvvthali.jpg"
     },
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dessert_blur.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\dessert_blur.jpg"
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/applogo.jpg",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/applogo.jpg"
     },
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\non_veg.png",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\non_veg.png"
-    },
-    {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\n_veg.jpg",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\drawable-xhdpi\\n_veg.jpg"
+        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/str.jpg",
+        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/drawable-xhdpi/str.jpg"
     }
 ]

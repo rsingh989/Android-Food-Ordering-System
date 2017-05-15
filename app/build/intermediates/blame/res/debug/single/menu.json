@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\menu\\slimple_text_client.xml",
-        "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/C:\\virtualW\\app\\src\\main\\res\\menu\\slimple_text_client.xml"
-    },
-    {
         "merged": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/build/intermediates/res/merged/debug/menu/slimple_text_client.xml",
         "source": "/Users/raghavendrasingh/Android-Food-Ordering-System/app/src/main/res/menu/slimple_text_client.xml"
     }
